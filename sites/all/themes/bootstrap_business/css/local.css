@@ -1,0 +1,28 @@
+/* Custom CSS overrides */
+h2{
+    margin-top: 10px;
+}
+#header{
+    background: url("../images/nature-q-c-1920-500-8.jpg");
+}
+#site-name > a{
+    color: #fff;
+}
+ul.language-switcher-locale-url li{
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}
+#block-locale-language > h2{
+    display: none;
+}
+div.content{
+    padding-top: 0 !important;
+}
+div.view-gallery h3{
+    clear: both;
+}
+div.view-gallery .views-row{
+    width: 150px;
+    float: left;
+}
